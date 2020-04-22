@@ -6,7 +6,7 @@ const Header = () => {
     <nav className="ui fixed inverted menu">
       <div className="ui container">
         <Link id="header" className="header item" to="/">
-          My Portfolio
+          ViaPlay
         </Link>  
       </div>
     </nav>
